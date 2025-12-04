@@ -129,5 +129,5 @@ Pull requests are welcome for:
 ## Contact
 
 For collaboration or research inquiries:
-LinkedIn: https://www.linkedin.com/in/mohammed-saad-shareef-019397265/
-LinkedIn: https://www.linkedin.com/in/syed-ahsan-ahmed-17475a290/
+- [**Syed Ahsan Ahmed**](https://www.linkedin.com/in/syed-ahsan-ahmed-17475a290/)
+- [**Mohammed Saad Shareef**](https://www.linkedin.com/in/mohammed-saad-shareef-019397265/)
