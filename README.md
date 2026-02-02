@@ -6,8 +6,8 @@ Lords Institute of Engineering and Technology, Hyderabad, India
 
  **One-Page Research Summary**  
 For a quick overview, reviewers and professors can read the concise 1-page summary:  
-👉 **[Download Research Summary (PDF)](paper/Research-Summary.pdf)**
-
+**[Download Research Summary (PDF)](paper/SoK_Summary.pdf)**
+**[Download Preprint (PDF)](paper/SOK_PPML_Threat_defense.pdf)**
 
 ---
 

@@ -11,3 +11,5 @@ data/
 # Virtual envs
 venv/
 .env
+
+refs.bib
